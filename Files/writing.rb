@@ -1,0 +1,1 @@
+File.open("new_test.txt","w+") { |f| f.write("Botson", "shibu", "Shaw", "moni") }
