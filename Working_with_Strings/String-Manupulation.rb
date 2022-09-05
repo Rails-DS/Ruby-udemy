@@ -1,4 +1,4 @@
-name = "Shibu"
+name = "Shibu " 
 
 puts "String Manupulation "
 
@@ -11,3 +11,7 @@ puts "Swap case : #{name.swapcase()}"
 puts "Reverse : #{name.reverse()}"
 
 puts "Chaining : #{name.reverse.upcase()}"
+
+puts "Chopping : #{name.chop}"
+
+puts "Stripping : #{name.strip()}" 
